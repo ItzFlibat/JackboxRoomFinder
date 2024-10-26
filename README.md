@@ -19,8 +19,8 @@ Be aware that excessive requests to the Jackbox API may result in your IP being 
 
 ## Usage
 1. Ensure you have a JavaScript runtime environment set up (Node.js recommended).
-2. Copy the code into a JavaScript file (e.g., `jackboxRoomFinder.js`).
+2. Copy the code into a JavaScript file (e.g., `jackboxFinder.js`).
 3. Run the script using Node.js:
    ```bash
-   node jackboxRoomFinder.js
+   node jackboxFinder.js
 Alternatively, you can use [Jackbox Jacker](https://jackbox-jacker.coolpixels.net/) created by [@coolpx](https://github.com/coolpx).
