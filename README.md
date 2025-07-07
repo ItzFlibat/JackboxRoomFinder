@@ -1,8 +1,9 @@
 # Jackbox Room Finder
 This project is a JavaScript application that attempts to find active Jackbox game rooms by generating random room codes. It fetches data from the Jackbox API and provides details about the found rooms, including the game name and room features.
 
-# ⚠️ Usage Warning
-Be aware that excessive requests to the Jackbox API may result in your IP being banned from using Jackboxgames.com or Jackbox.tv. Use responsibly.
+> [!WARNING]
+> This project sends automated requests to Jackbox's API and excessive requests will lead to your IP being rate limited from jackboxgames.com.
+> Use responsibly, and consider using a VPN or proxy rotation to mitigate IP rate limiting.
 
 ---
 
